@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug",
+  "command": "/usr/bin/cc  -Wall -Wextra -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/skyscraper_game.dir/sources/main.c.o -c /home/sebnem/c_00/skyscraper-game/sources/main.c",
+  "file": "/home/sebnem/c_00/skyscraper-game/sources/main.c",
+  "output": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir/sources/main.c.o"
+},
+{
+  "directory": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug",
+  "command": "/usr/bin/cc  -Wall -Wextra -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/skyscraper_game.dir/sources/utils.c.o -c /home/sebnem/c_00/skyscraper-game/sources/utils.c",
+  "file": "/home/sebnem/c_00/skyscraper-game/sources/utils.c",
+  "output": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir/sources/utils.c.o"
+},
+{
+  "directory": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug",
+  "command": "/usr/bin/cc  -Wall -Wextra -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/skyscraper_game.dir/sources/check.c.o -c /home/sebnem/c_00/skyscraper-game/sources/check.c",
+  "file": "/home/sebnem/c_00/skyscraper-game/sources/check.c",
+  "output": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir/sources/check.c.o"
+},
+{
+  "directory": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug",
+  "command": "/usr/bin/cc  -Wall -Wextra -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/skyscraper_game.dir/sources/solver.c.o -c /home/sebnem/c_00/skyscraper-game/sources/solver.c",
+  "file": "/home/sebnem/c_00/skyscraper-game/sources/solver.c",
+  "output": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir/sources/solver.c.o"
+},
+{
+  "directory": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug",
+  "command": "/usr/bin/cc  -Wall -Wextra -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/skyscraper_game.dir/sources/parser.c.o -c /home/sebnem/c_00/skyscraper-game/sources/parser.c",
+  "file": "/home/sebnem/c_00/skyscraper-game/sources/parser.c",
+  "output": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir/sources/parser.c.o"
+},
+{
+  "directory": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug",
+  "command": "/usr/bin/cc  -Wall -Wextra -Werror -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/skyscraper_game.dir/Makefile.c.o -c /home/sebnem/c_00/skyscraper-game/Makefile.c",
+  "file": "/home/sebnem/c_00/skyscraper-game/Makefile.c",
+  "output": "/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir/Makefile.c.o"
+}
+]

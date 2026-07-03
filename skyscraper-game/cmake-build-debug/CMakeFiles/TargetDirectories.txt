@@ -1,0 +1,3 @@
+/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/skyscraper_game.dir
+/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sebnem/c_00/skyscraper-game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
